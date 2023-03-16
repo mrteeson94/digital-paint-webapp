@@ -25,8 +25,9 @@ body {
  }
 
  .whiteboard {
-  width: 50vw;
-  height: 50vw;
+  display: grid;
+  width: 70vh;
+  height: 70vh;
   border: solid black;
   margin-top: 1vh;
   margin-bottom: 1vh;
