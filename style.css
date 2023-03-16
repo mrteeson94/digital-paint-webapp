@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-color: beige ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ #title {
+    display: flex;
+    justify-content: center;
+ }
+
+ .header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 0.5vw;
+ }
+
+ .text-box {
+  width: 4.5vw;
+  font-size: 1vw;
+ }
+
+ .whiteboard {
+  width: 50vw;
+  height: 50vw;
+  border: solid black;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+ }
+ 
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50vw;
+}
