@@ -7,8 +7,6 @@ There's no better paint app than this web application *cough* MS paint *cough*.
 
 * [Technology & Language Used](#Technology-&-Language-Used)
 
-* [Functionality](#Functionality)
-
 ## Application Progression Summary
 This modern whiteboard application offers a dynamic seamless painting experience, with an overall minimalistic design
 to prevent clutter and allow users to focus on whats more important... painting!
