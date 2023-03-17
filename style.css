@@ -1,11 +1,13 @@
 body {
+    height: 100vh;
     margin: 0;
     background-color: beige ;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
+    font-family: 'Edu NSW ACT Foundation', cursive;
+  }
 
  #title {
     display: flex;
@@ -26,7 +28,7 @@ body {
 
  .whiteboard {
   display: grid;
-  width: 70vh;
+  width: 80vh;
   height: 70vh;
   border: solid black;
   margin-top: 1vh;
@@ -36,6 +38,21 @@ body {
 .footer {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   width: 50vw;
+}
+
+.github-text {
+  background-color: black;
+  width: 100vw;
+  height: 4vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+  font-size: 0.5em;
 }
